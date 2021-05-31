@@ -1,0 +1,10 @@
+Avaliação do professor:
+
+a) ok
+b) ok
+c) ok
+d) ok
+e) ok
+f) None
+
+NOTA: 5/7

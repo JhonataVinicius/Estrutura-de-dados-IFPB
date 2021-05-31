@@ -1,0 +1,5 @@
+Avaliação do professor:
+
+Corrigido. Q1 OK. Q2 - desnecessário alocação na função criar. Verificar correção. Q3 OK. Bônus OK.
+
+Nota: 10/6
